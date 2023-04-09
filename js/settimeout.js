@@ -4,7 +4,7 @@ setTimeout(() => {
 }, 5000);
 
 setTimeout(() => {
-    console.log("Verna")
+    console.log("Verna",a)
 }, 2000);
 
 
